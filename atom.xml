@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://trphloc2.github.io/atom.xml" rel="self"/>
+  <link href="http://trphloc2.github.io/"/>
+  <updated>2016-06-15T09:52:56+07:00</updated>
+  <id>http://trphloc2.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://trphloc2.github.io/blog/2016/06/15/test/"/>
+    <updated>2016-06-15T09:25:49+07:00</updated>
+    <id>http://trphloc2.github.io/blog/2016/06/15/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
